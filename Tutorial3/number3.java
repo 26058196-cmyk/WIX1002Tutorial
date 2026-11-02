@@ -23,10 +23,9 @@ public class number3 {
 
         // c.
         // #####
-        // $$$$$
 
         // d.
-        // $$$$$
+        // (No output)
     }
 }
     
